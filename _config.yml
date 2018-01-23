@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: #Demon's
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: Demon's
 description: Your description here
 google_verification: null
 
