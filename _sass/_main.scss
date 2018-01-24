@@ -162,7 +162,7 @@ ul.topbar {
     padding:0 0 0 2px;
 }
 #tag-list li a {
-    background: #fff8ff;
+    background: #aa0000;
     display:block;
 }
 #tag-list li ul li {
@@ -281,7 +281,7 @@ ul.topbar {
 	}
 }
 .hljs {
-	background: #fff8ff;
+	background: #aa0000;
 }
 .footer {
 	font-size: 12px;
@@ -398,14 +398,14 @@ ul.topbar {
 } /* the new scrollbar will have a flat appearance with the set background color */
  
 ::-webkit-scrollbar-thumb {
-	background-color: #cccccc;
+	background-color: #aa0000;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
 	border-color: #fff8ff #000000 #000000 #fff8ff;
 } /* this will style the thumb, ignoring the track */
  
 ::-webkit-scrollbar-button {
-	background-color: #cccccc;
+	background-color: #aa0000;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
 	border-color: #fff8ff #000000 #000000 #fff8ff;
